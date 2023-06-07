@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Weather forecast app using css, jsx, javascript, bootsrap and react
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
